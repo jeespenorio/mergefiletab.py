@@ -69,4 +69,4 @@ if uploaded_file is not None:
     # Display the grand total
     #=====================================================================================================================
     st.subheader("Grand Total:")
-   st.dataframe(grand_total)
+    st.dataframe(grand_total)
